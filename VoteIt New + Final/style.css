@@ -1,0 +1,14 @@
+.buttonHolder{
+  display: block;    
+  margin-left: auto;
+  margin-right: auto;
+  padding: 100%;
+}
+
+#VoteIt{
+  position:absolute;
+  bottom:250px;
+  right: 735px;
+  font-size: 57px
+  
+}
